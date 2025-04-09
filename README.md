@@ -1,5 +1,5 @@
 # What is Wav3
-Wav3 is a Artclass Revival Project bringing new features and more updates, Join the .[discord](https://discord.gg/gDby3vkCtJ) for more info
+Wav3 is a Artclass Revival Project bringing new features and more updates, Join the [discord](https://discord.gg/gDby3vkCtJ) for more info
 
 <div align="center">
   <img src="public/assets/images/icon.png" />
@@ -13,7 +13,7 @@ A website with tons of games, apps, built-in proxy, emulator, and more fun goodi
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/aaabbb4325/Wav3)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/aaabbb4325/Wav3)
 
-> You currently cannot deploy Art Class to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages. This feature is planned in a future update. Vercel does work - however, it is experimental and some things may not work as intended.
+> You currently cannot deploy Wav3 to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages you also cannot deploy it to Freedns. This feature is planned in a future update. Vercel does work - however, it is experimental and some things may not work as intended.
 
 ## Run locally
 
@@ -27,3 +27,5 @@ npm start # Start the bare server + serve static files
 
 ## Support
 Most issues can be answered by [opening an issue](https://github.com/aaabbb4325/Wav3/issues).
+
+Wav3 not working? Join the [discord](https://discord.gg/gDby3vkCtJ) and create a ticket
