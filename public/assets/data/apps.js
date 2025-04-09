@@ -7,7 +7,7 @@ var apps = [
     {
       "id": "google",
       "title": "Bing",
-      "url": "bing.com",
+      "url": "https://bing.com",
       'image': 'https://img.freepik.com/free-icon/search_318-265146.jpg'
       
     },
