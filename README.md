@@ -1,5 +1,5 @@
 # What is Wav3
-Wav3 is a Artclass Revival Project bringing new features and more updates.
+Wav3 is a Artclass Revival Project bringing new features and more updates, Join the .[discord](https://discord.gg/gDby3vkCtJ) for more info
 
 <div align="center">
   <img src="public/assets/images/icon.png" />
