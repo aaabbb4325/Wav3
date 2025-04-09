@@ -40,6 +40,8 @@ Most issues can be answered by [opening an issue](https://github.com/aaabbb4325/
 
 Wav3 not working? Join the [discord](https://discord.gg/gDby3vkCtJ) and create a ticket
 
-## contibutors
-If you wish to contribute please join the [discord](https://discord.gg/gDby3vkCtJ) it makes it way easier for me to verify that you arent trolling
+## Contibutors
+# All contibutors will be credited here
+AnonymousPerson (aaabbb4325) - Owner
+> If you wish to contribute please join the [discord](https://discord.gg/gDby3vkCtJ) it makes it way easier for me to verify that you arent trolling
 > if you cant join the discord for whatever reason create a issue and ill help you from there
