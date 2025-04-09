@@ -33,7 +33,7 @@ body[theme="forest"] {
 
 body[theme="ocean"] {
     --text-color: white;
-    --background: #34495e;
+    --background: url("https://cdn.pixabay.com/video/2023/12/05/192066-891655462_large.mp4");
     --navbar: #2d1a79;
     --accent: #2980b9;
 }
