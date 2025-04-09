@@ -42,6 +42,4 @@ Wav3 not working? Join the [discord](https://discord.gg/gDby3vkCtJ) and create a
 
 ## Contibutors
 ### All contibutors will be credited here
-AnonymousPerson (aaabbb4325) - Owner
-> If you wish to contribute please join the [discord](https://discord.gg/gDby3vkCtJ) it makes it way easier for me to verify that you arent trolling
-> if you cant join the discord for whatever reason create a issue and ill help you from there
+For right now I dont really want anyone to contribute please create a ticket in the discord if youd like to help
