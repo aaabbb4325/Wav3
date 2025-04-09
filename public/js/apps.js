@@ -22,6 +22,6 @@ apps.forEach(app => {
   card.addEventListener("click", () => {
 
     if (app.id == "customapp") return loadcustomapp()
-    window.location.href = `/load.html?app=${app.id}`
+    window.location.href = `/search.html?q=`
   })
 })
