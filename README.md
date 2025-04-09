@@ -7,6 +7,20 @@ Wav3 is a Artclass Revival Project bringing new features and more updates, Join 
 </div>
 A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
 
+Features
+- [x] Shortcuts
+- [ ] Improved UI
+- [ ] Rammerhead
+- [ ] People who actually care about this
+- [ ] add more settings
+- [ ] Add some QOL stuff
+
+
+
+
+
+
+
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/aaabbb4325/Wav3)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/aaabbb4325/Wav3&branch=main&name=v4)
