@@ -8,6 +8,7 @@ Wav3 is a Artclass Revival Project bringing new features and more updates, Join 
 A website with tons of games, apps, built-in proxy, emulator, and more fun goodies. If you fork this repository, please consider giving it a star ⭐!
 
 Features
+- [x] Artclass 
 - [x] Shortcuts
 - [ ] Improved UI
 - [ ] Rammerhead
