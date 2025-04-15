@@ -72,6 +72,15 @@
     aclib.runAutoTag({
         zoneId: '6hmeyutild',
     });
+
 </script>
+
+  <script>
+    fetch('./assets/data/splash.json')
+      .then((res) => res.json())
+      .then((data) => {
+        document.querySelector('#splash').innerHTML = data[Math.floor(Math.random() * data.length)]
+      })
+  </script>
 
 </html>
